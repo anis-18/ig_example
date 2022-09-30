@@ -1,0 +1,105 @@
+export const POSTS = [
+  {
+    id: 1,
+    img: require('./assets/1.jpg'),
+    liked: ['anis'],
+    date: 'Janaury 1, 2021',
+  },
+  {
+    id: 2,
+    img: require('./assets/2.jpeg'),
+    liked: ['anis', 'ilyas'],
+    date: 'Janaury 1, 2021',
+  },
+  {
+    id: 3,
+    img: require('./assets/3.jpeg'),
+    liked: ['anis'],
+    date: 'Janaury 1, 2021',
+  },
+  {
+    id: 4,
+    img: require('./assets/4.jpeg'),
+    liked: ['artem'],
+    date: 'Janaury 1, 2021',
+  },
+  {
+    id: 5,
+    img: require('./assets/5.jpg'),
+    liked: ['anis', 'artem'],
+    date: 'February 1, 2021',
+  },
+
+  {
+    id: 6,
+    img: require('./assets/6.jpg'),
+    liked: ['anis', 'artem'],
+    date: 'Janaury 8, 2022',
+  },
+  {
+    id: 7,
+    img: require('./assets/7.jpg'),
+    liked: ['anis', 'artem'],
+    date: 'March 18, 2021',
+  },
+  {
+    id: 8,
+    img: require('./assets/8.jpeg'),
+    liked: ['anis', 'artem'],
+    date: 'Janaury 1, 2021',
+  },
+  {
+    id: 9,
+    img: require('./assets/9.jpeg'),
+    liked: ['anis', 'artem'],
+    date: 'Janaury 1, 2021',
+  },
+  {
+    id: 10,
+    img: require('./assets/10.jpeg'),
+    liked: ['anis', 'artem'],
+    date: 'December 15, 2021',
+  },
+  {
+    id: 11,
+    img: require('./assets/11.jpg'),
+    liked: ['anis', 'artem'],
+    date: 'December 15, 2021',
+  },
+  {
+    id: 12,
+    img: require('./assets/12.jpg'),
+    liked: ['anis', 'artem'],
+    date: 'December 15, 2021',
+  },
+  {
+    id: 13,
+    img: require('./assets/13.jpeg'),
+    liked: ['anis', 'artem'],
+    date: 'December 15, 2021',
+  },
+  {
+    id: 14,
+    img: require('./assets/14.jpeg'),
+    liked: ['anis', 'artem'],
+    date: 'December 15, 2021',
+  },
+  {
+    id: 15,
+    img: require('./assets/15.jpg'),
+    liked: ['anis', 'artem'],
+    date: 'December 15, 2021',
+  },
+  {
+    id: 16,
+    img: require('./assets/16.jpg'),
+    liked: ['anis', 'artem'],
+    date: 'December 15, 2021',
+  },
+  {
+    id: 17,
+    img: require('./assets/17.jpg'),
+    liked: ['anis', 'artem'],
+    date: 'December 15, 2021',
+  },
+];
